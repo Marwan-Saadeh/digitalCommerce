@@ -74,7 +74,7 @@ public class Browser {
 				break;
 		}
 		// maximize browser's window on start
-		driver.manage().window().maximize();
+//		driver.manage().window().maximize();
 //		driver.manage().window().fullscreen();
 //		driver.manage().window().setPosition(new Point(0,0));
 //		driver.manage().window().setSize(new Dimension(1920, 1080));
